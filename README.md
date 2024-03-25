@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
- - [Acesse o projeto finalizado, online](https://bernardosa01.github.io//)
+ - [Acesse o projeto finalizado, online](https://bernardosa01.github.io/Galaxies/)
 
 
 ## 🔖 Layout
