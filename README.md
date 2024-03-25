@@ -1,4 +1,4 @@
-<h1 align="center"> Cheesecake </h1>
+<h1 align="center"> Galaxies </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela trilha Explorer da Rocketseat para ensino de tecnologias WEB. 
